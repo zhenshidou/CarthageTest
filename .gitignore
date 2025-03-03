@@ -1,0 +1,9 @@
+# User-specific files
+.DS_Store
+
+# Xcode user data
+**/xcuserdata/
+**/*.xcuserdatad
+
+# Ignore the Distribution directory
+QuickTrackingSDK/Distribution/

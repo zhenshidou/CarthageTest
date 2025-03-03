@@ -1,0 +1,6 @@
+framework module QuickTrackingSDK {
+  umbrella header "QuickTrackingSDK.h"
+  export *
+
+  module * { export * }
+}
